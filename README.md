@@ -14,7 +14,7 @@ Prerequisites
 
 *Python 3.11
 *A SQL database:
- MySQL 
+* MySQL 
 *Power BI Desktop (for development) 
 
 How to Reproduce / Run End-to-End
